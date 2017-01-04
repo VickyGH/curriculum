@@ -1,1 +1,1 @@
-web: gunicorn topicos.wsgi --log-file -
+web: gunicorn curriculum.wsgi --log-file -
