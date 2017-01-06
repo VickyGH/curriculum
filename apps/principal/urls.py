@@ -1,7 +1,10 @@
 from django.conf.urls import url
 
-from . import views
+from .views import *
+
+from django.conf import settings
+from django.conf.urls.static import static
 
 urlpatterns = [
-    url(r'^$', views.index, name='index'),
-]
+    url(r'^$', inicio.as_view(), name='Inicio'),
+]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

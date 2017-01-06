@@ -13,8 +13,10 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
+#BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+# Path(__file__).ancestor(2)
+PROYECT_ROOT = os.path.dirname(os.path.realpath(__file__))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/
@@ -24,6 +26,8 @@ SECRET_KEY = '-cc(b%@6aoe7+a0*7-5565zb-@7a+adospbgm^zjy%)0&ldm1y'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+
+TEMPLATE_DEBUG = True
 
 ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1', 'curriculum-web93.herokuapp.com']
 
@@ -37,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'apps.principal'
 ]
 
 MIDDLEWARE = [
@@ -51,10 +56,12 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'curriculum.urls'
 
+WSGI_APPLICATION = 'curriculum.wsgi.application'
+""""""
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -67,8 +74,11 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'curriculum.wsgi.application'
-
+"""
+TEMPLATE_DIRS = (
+    os.path.join(BASE_DIR, 'template'),
+)
+"""
 
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
@@ -103,9 +113,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.10/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'es-MX'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Mexico_City'
 
 USE_I18N = True
 
@@ -120,3 +130,13 @@ USE_TZ = True
 STATIC_URL = '../staticos/'
 
 STATIC_ROOT = "../staticos/"
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    #'django.contrib.staticfiles.finders.DefaultStorageFinder',
+)
+
+STATICFILES_DIRS = [
+os.path.join( PROYECT_ROOT, 'static'),
+]

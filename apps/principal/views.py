@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 # Create your views here.
 from django.http import HttpResponse
+from django.views.generic import TemplateView
 
-
-def index(request):
-    return HttpResponse("Hello, Te amo Edgar Gustavo. Atte Tu Biscocha :P ")
+class inicio(TemplateView):
+    template_name ="index.html"
