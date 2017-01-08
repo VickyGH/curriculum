@@ -139,5 +139,5 @@ STATICFILES_FINDERS = (
 )
 
 STATICFILES_DIRS = [
-os.path.join( PROYECT_ROOT, 'static'),
+os.path.join( PROYECT_ROOT, '/static/'),
 ]
