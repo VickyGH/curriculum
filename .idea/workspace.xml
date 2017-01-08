@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9606a35-f013-4300-b700-92e27f9ef3da" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curriculum/settings.py" afterPath="$PROJECT_DIR$/curriculum/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="134" column="21" lean-forward="false" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="21" />
+            <state relative-caret-position="167">
+              <caret line="131" column="21" lean-forward="false" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
               <folding>
                 <element signature="e#314#323#0" expanded="true" />
               </folding>
@@ -32,8 +33,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/curriculum/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding>
                 <element signature="e#1#42#0" expanded="true" />
               </folding>
@@ -41,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Python/2.7/site-packages/django/conf/urls/__init__.py">
+      <file leaf-file-name="static.py" pinned="false" current-in-tab="true">
+        <entry file="file:///Library/Python/2.7/site-packages/django/conf/urls/static.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -495,7 +496,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843792" sideWeight="0.50805587" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34379905" sideWeight="0.49624062" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.49194413" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.49194413" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919441" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -709,14 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/django/conf/urls/static.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -743,23 +736,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/staticfiles/staticfiles.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="131" column="21" lean-forward="false" selection-start-line="131" selection-start-column="21" selection-end-line="131" selection-end-column="21" />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/curriculum/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="e#1#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
+    <entry file="file:///Library/Python/2.7/site-packages/django/conf/urls/static.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="134" column="21" lean-forward="false" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="21" />
-          <folding>
-            <element signature="e#314#323#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
