@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9606a35-f013-4300-b700-92e27f9ef3da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/close@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/loading@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/next@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/prev@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/ProximaNova-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/ProximaNova-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/contact-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/home-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/portfolio-img8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/team-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/team1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/team2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/team3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo-lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/templatemo-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/jquery.parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/jquery.sticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/nivo-lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/smoothscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/wow.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curriculum/settings.py" afterPath="$PROJECT_DIR$/curriculum/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/index.html" afterPath="$PROJECT_DIR$/template/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,9 +20,21 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="257">
+              <caret line="136" column="72" lean-forward="false" selection-start-line="136" selection-start-column="72" selection-end-line="136" selection-end-column="72" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/curriculum/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#227#236#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -235,54 +196,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CV" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="curriculum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CV" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -787,10 +700,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/curriculum/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#227#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="257">
+          <caret line="136" column="72" lean-forward="false" selection-start-line="136" selection-start-column="72" selection-end-line="136" selection-end-column="72" />
           <folding />
         </state>
       </provider>
