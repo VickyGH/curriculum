@@ -137,8 +137,8 @@ STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     'django.contrib.staticfiles.finders.DefaultStorageFinder',
 )
-
+"""
 STATICFILES_DIRS = [
-    os.path.join( PROYECT_ROOT, '../static/'),
-    '/app/curriculum/'
+    os.path.join( PROYECT_ROOT, 'static/'),
 ]
+"""
