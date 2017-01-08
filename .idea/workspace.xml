@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9606a35-f013-4300-b700-92e27f9ef3da" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/animate.min.css" afterPath="$PROJECT_DIR$/curriculum/static/css/animate.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/curriculum/static/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/curriculum/static/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo-lightbox.css" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo-lightbox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/close.png" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/close.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/close@2x.png" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/close@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/default.css" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/loading.gif" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/loading.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/loading@2x.gif" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/loading@2x.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/next.png" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/next.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/next@2x.png" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/next@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/prev.png" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/prev.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/prev@2x.png" afterPath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/prev@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/CV/css/templatemo-style.css" afterPath="$PROJECT_DIR$/curriculum/static/css/templatemo-style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/animate.min.css" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/animate.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo-lightbox.css" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo-lightbox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/close.png" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/close@2x.png" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/close@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/default.css" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/loading.gif" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/loading@2x.gif" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/loading@2x.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/next.png" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/next.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/next@2x.png" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/next@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/prev.png" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/prev.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/nivo_themes/default/prev@2x.png" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/nivo_themes/default/prev@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/curriculum/static/css/templatemo-style.css" afterPath="$PROJECT_DIR$/curriculum/static/CV/css/templatemo-style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curriculum/settings.py" afterPath="$PROJECT_DIR$/curriculum/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/index.html" afterPath="$PROJECT_DIR$/template/index.html" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="143" column="3" lean-forward="true" selection-start-line="143" selection-start-column="3" selection-end-line="143" selection-end-column="3" />
+            <state relative-caret-position="540">
+              <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding>
                 <element signature="e#314#323#0" expanded="true" />
               </folding>
@@ -84,8 +84,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="165">
+              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -142,7 +142,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1010" />
+    <option name="width" value="732" />
     <option name="height" value="873" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -268,6 +268,7 @@
       <recent name="$PROJECT_DIR$/curriculum/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/curriculum/static/CV" />
       <recent name="$PROJECT_DIR$/curriculum/static" />
       <recent name="$PROJECT_DIR$/templates" />
     </key>
@@ -512,15 +513,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1010" height="873" extended-state="0" />
+    <frame x="0" y="22" width="732" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20525783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20525783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843792" sideWeight="0.50805587" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34379905" sideWeight="0.49624062" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.49194413" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.49194413" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919441" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -533,6 +534,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.49624062" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843792" sideWeight="0.50805587" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34379905" sideWeight="0.49624062" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.49194413" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20525783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.49624062" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919441" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -780,16 +800,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="165">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="143" column="3" lean-forward="true" selection-start-line="143" selection-start-column="3" selection-end-line="143" selection-end-column="3" />
+        <state relative-caret-position="540">
+          <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding>
             <element signature="e#314#323#0" expanded="true" />
           </folding>

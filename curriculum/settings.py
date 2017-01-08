@@ -18,8 +18,8 @@ from os.path import normpath, join
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 # Path(__file__).ancestor(2)
-PROYECT_ROOT = os.path.dirname(os.path.realpath(__file__))
-
+#PROYECT_ROOT = os.path.dirname(os.path.realpath(__file__))
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.10/howto/deployment/checklist/
 
@@ -131,17 +131,23 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 MEDIA_URL = '/media/'
 
-STATIC_ROOT = 'staticfiles'
+#STATIC_ROOT = 'staticfiles'
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 
 STATIC_URL = '/static/'
 
+STATICFILES_DIRS = (
+    os.path.join(PROJECT_ROOT, 'static'),
+)
+
+"""
 STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.FileSystemFinder',
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
     #'django.contrib.staticfiles.finders.DefaultStorageFinder',
 )
 
-"""
+
 STATICFILES_DIRS = [
     os.path.join( PROYECT_ROOT, '/static/'),
 ]
