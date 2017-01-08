@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9606a35-f013-4300-b700-92e27f9ef3da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curriculum/settings.py" afterPath="$PROJECT_DIR$/curriculum/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curriculum/urls.py" afterPath="$PROJECT_DIR$/curriculum/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/curriculum/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/curriculum/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="347">
+              <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
               <folding>
                 <element signature="e#644#685#0" expanded="true" />
               </folding>
@@ -113,12 +113,12 @@
         <option value="$PROJECT_DIR$/templates/__init__.py" />
         <option value="$PROJECT_DIR$/templates/principal/inicioCV.html" />
         <option value="$PROJECT_DIR$/apps/principal/urls.py" />
-        <option value="$PROJECT_DIR$/curriculum/urls.py" />
         <option value="$PROJECT_DIR$/apps/principal/views.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/curriculum/settings.py" />
+        <option value="$PROJECT_DIR$/curriculum/urls.py" />
       </list>
     </option>
   </component>
@@ -669,26 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curriculum/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="e#644#685#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/principal/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/principal/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -728,6 +708,26 @@
         <state relative-caret-position="435">
           <caret line="113" column="22" lean-forward="true" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/principal/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curriculum/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="e#644#685#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -25,8 +25,7 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     #url(r'^uno/', include('apps.principal.urls')),
     url(r'^', include('apps.principal.urls')),
-]
-#+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
 """
 urlpatterns = patterns('',
