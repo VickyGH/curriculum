@@ -140,4 +140,5 @@ STATICFILES_FINDERS = (
 
 STATICFILES_DIRS = [
     os.path.join( PROYECT_ROOT, '../static/'),
+    '/app/curriculum/'
 ]
