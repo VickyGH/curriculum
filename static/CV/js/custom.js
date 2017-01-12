@@ -2,6 +2,7 @@
 $(window).load(function(){
     $('.preloader').fadeOut("slow"); // set duration in brackets    
 });
+/*
 // ----- GOOGLE MAP ----- //
 var map = '';
 var center;
@@ -12,13 +13,13 @@ function initialize() {
       center: new google.maps.LatLng(17.9927666, 92.9531211),
       scrollwheel: false
     };
-  
+
     map = new google.maps.Map(document.getElementById('map-canvas'),  mapOptions);
 
     google.maps.event.addDomListener(map, 'idle', function() {
         calculateCenter();
     });
-  
+
     google.maps.event.addDomListener(window, 'resize', function() {
         map.setCenter(center);
     });
@@ -34,7 +35,7 @@ function loadGoogleMap(){
     script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&' + 'callback=initialize';
     document.body.appendChild(script);
 }
-
+*/
 /* HTML document is loaded. DOM is ready. 
 -------------------------------------------*/
 $(function(){
@@ -57,7 +58,7 @@ $(function(){
   wow.init();
 
   // ------- GOOGLE MAP ----- //
-  loadGoogleMap();
+  //loadGoogleMap();
 
   // ------- JQUERY PARALLAX ---- //
   function initParallax() {
