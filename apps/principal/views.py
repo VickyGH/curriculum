@@ -5,4 +5,4 @@ from django.http import HttpResponse
 from django.views.generic import TemplateView
 
 class inicio(TemplateView):
-    template_name ="index.html"
+    template_name ="principal/inicioCV.html"
