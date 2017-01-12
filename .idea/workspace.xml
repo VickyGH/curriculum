@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9606a35-f013-4300-b700-92e27f9ef3da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/curriculum/static/CV/images/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/principal/views.py" afterPath="$PROJECT_DIR$/apps/principal/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/principal/inicioCV.html" afterPath="$PROJECT_DIR$/template/principal/inicioCV.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,14 +78,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inicioCV.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inicioCV.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/principal/inicioCV.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="265" column="13" lean-forward="true" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
               <folding>
                 <element signature="e#4417#4789#0" expanded="false" />
                 <element signature="e#8623#10442#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/curriculum/static/CV/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#1722#0" expanded="false" />
+                <element signature="e#0#1722#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -132,10 +142,10 @@
         <option value="$PROJECT_DIR$/curriculum/urls.py" />
         <option value="$PROJECT_DIR$/curriculum/settings.py" />
         <option value="$PROJECT_DIR$/static/CV/js/custom.js" />
-        <option value="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" />
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/apps/principal/views.py" />
         <option value="$PROJECT_DIR$/template/principal/inicioCV.html" />
+        <option value="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" />
       </list>
     </option>
   </component>
@@ -259,6 +269,10 @@
               <option name="myItemId" value="CV" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -279,10 +293,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CV" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -574,7 +584,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.49624062" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34379905" sideWeight="0.49624062" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.49194413" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.49194413" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919441" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -1013,13 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curriculum/static/CV/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1033,11 +1036,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/principal/inicioCV.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="265" column="13" lean-forward="true" selection-start-line="265" selection-start-column="13" selection-end-line="265" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
           <folding>
             <element signature="e#4417#4789#0" expanded="false" />
             <element signature="e#8623#10442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curriculum/static/CV/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1722#0" expanded="false" />
+            <element signature="e#0#1722#0" expanded="false" />
           </folding>
         </state>
       </provider>

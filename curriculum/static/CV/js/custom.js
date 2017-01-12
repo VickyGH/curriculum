@@ -7,6 +7,7 @@ var map = '';
 var center;
 
 function initialize() {
+/*
     var mapOptions = {
       zoom: 16,
       center: new google.maps.LatLng(17.9645883,-92.9934285),
@@ -22,6 +23,7 @@ function initialize() {
     google.maps.event.addDomListener(window, 'resize', function() {
         map.setCenter(center);
     });
+    */
 }
 
 function calculateCenter() {
