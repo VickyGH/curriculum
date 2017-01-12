@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9606a35-f013-4300-b700-92e27f9ef3da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" afterPath="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/CV/js/custom.js" afterPath="$PROJECT_DIR$/static/CV/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/principal/inicioCV.html" afterPath="$PROJECT_DIR$/template/principal/inicioCV.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,14 +78,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inicioCV.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="inicioCV.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/principal/inicioCV.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            <state relative-caret-position="300">
+              <caret line="20" column="79" lean-forward="false" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
               <folding>
-                <element signature="e#4417#4789#0" expanded="false" />
-                <element signature="e#8623#10442#0" expanded="false" />
+                <element signature="e#4416#4788#0" expanded="false" />
+                <element signature="e#8622#10441#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -102,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/CV/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="-403">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -164,9 +163,9 @@
         <option value="$PROJECT_DIR$/curriculum/settings.py" />
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/apps/principal/views.py" />
-        <option value="$PROJECT_DIR$/template/principal/inicioCV.html" />
         <option value="$PROJECT_DIR$/curriculum/static/CV/js/custom.js" />
         <option value="$PROJECT_DIR$/static/CV/js/custom.js" />
+        <option value="$PROJECT_DIR$/template/principal/inicioCV.html" />
       </list>
     </option>
   </component>
@@ -701,8 +700,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4417#4789#0" expanded="false" />
-            <element signature="e#8623#10442#0" expanded="false" />
+            <element signature="e#4416#4788#0" expanded="false" />
+            <element signature="e#8622#10441#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -763,8 +762,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4417#4789#0" expanded="false" />
-            <element signature="e#8623#10442#0" expanded="false" />
+            <element signature="e#4416#4788#0" expanded="false" />
+            <element signature="e#8622#10441#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -825,8 +824,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4417#4789#0" expanded="false" />
-            <element signature="e#8623#10442#0" expanded="false" />
+            <element signature="e#4416#4788#0" expanded="false" />
+            <element signature="e#8622#10441#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1069,17 +1068,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/principal/inicioCV.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-          <folding>
-            <element signature="e#4417#4789#0" expanded="false" />
-            <element signature="e#8623#10442#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curriculum/static/CV/js/wow.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1098,9 +1086,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/CV/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        <state relative-caret-position="-403">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/principal/inicioCV.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="79" lean-forward="false" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
+          <folding>
+            <element signature="e#4416#4788#0" expanded="false" />
+            <element signature="e#8622#10441#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
