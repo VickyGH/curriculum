@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="{% static 'CV/css/nivo-lightbox.css'%}">
     <link rel="stylesheet" href="{% static 'CV/css/nivo_themes/default/default.css'%}">
     <link rel="stylesheet" href="{% static 'CV/css/templatemo-style.css'%}">
-    <link rel="icon" type="image/png" href="{% static 'CV/images/favicon.png'%} ">
+    <link rel="icon" type="image/png" href="{% static 'CV/images/favicon.ico'%} ">
 </head>
 <body data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
 <!-- preloader section -->
@@ -31,7 +31,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <h1 class="wow bounceInDown rotate">Vicky García</h1>
-                <h2 class="wow bounce">Desarrollador Móvil y Web</h2>
+                <h4 class="wow bounce">Desarrollador Móvil y Web</h4>
                 <a href="#intro" class="btn btn-default smoothScroll">EMPEZAR</a></div>
         </div>
     </div>
@@ -49,9 +49,7 @@
                 <li><a href="#home" class="smoothScroll">INICIO</a></li>
                 <li><a href="#intro" class="smoothScroll">INTRODUCCIÓN</a></li>
                 <li><a href="#team" class="smoothScroll">TRABAJOS</a></li>
-                <!--<li><a href="#work" class="smoothScroll">TEAM</a></li>-->
-                <li><a href="#portfolio" class="smoothScroll">PORTAFOLIO</a></li>
-                <!--<li><a href="#price" class="smoothScroll">PRICE</a></li>-->
+                <li><a href="#portfolio" class="smoothScroll">GALERÍA</a></li>
                 <li><a href="#contact" class="smoothScroll">CONTACTO</a></li>
             </ul>
         </div>
@@ -63,7 +61,7 @@
         <div class="row">
             <div class="col-md-offset-3 col-md-6 col-md-offset-3  col-sm-offset-2 col-sm-8 col-sm-offset-2 title">
                 <h3>Bienvenido a mi CV</h3>
-                <h2>Desarrollo Móvil y Web</h2>
+                <h1>Desarrollo Móvil y Web</h1>
                 <hr>
                 <p>Ingeniería en Tecnologías de la Información y Comunicación <br/> Técnico en sistemas informáticos y
                     telecomunicaciones: Área sistemas informáticos.</p>
@@ -126,17 +124,17 @@
                 -->
             </div>
             <div class="col-md-offset-1 col-md-7 col-md-offset-1  col-sm-offset-2 col-sm-8 col-sm-offset-2">
-                <div class="col-md-6 col-sm-5 col-xs-6 wow fadeIn" data-wow-delay="0.9s">
+                <div class="col-md-6 col-sm-5 col-xs-6 wow fadeIn" data-wow-delay="0.8s">
                     <a href="https://itunes.apple.com/mx/app/olmecas-tabasco/id670360244?mt=8">
-                        <img src="{% static 'CV/images/olmecas.png'%}" class="img-responsive" alt="team img">
+                        <img src="{% static 'CV/images/app_olmecas.png'%}" class="img-responsive" alt="team img">
                         <div class="team-des">
                             <h4>Olmecas Tabasco</h4>
                         </div>
                     </a>
                 </div>
-                <div class="col-md-6 col-sm-5 col-xs-6 wow fadeIn" data-wow-delay="1.3s">
+                <div class="col-md-6 col-sm-5 col-xs-6 wow fadeIn" data-wow-delay="1.2s">
                     <a href="https://play.google.com/store/apps/details?id=com.creatur15&hl=es_419">
-                        <img src="{% static 'CV/images/creatur.png'%}" class="img-responsive" alt="team img">
+                        <img src="{% static 'CV/images/app_creatur.png'%}" class="img-responsive" alt="team img">
                         <div class="team-des">
                             <h4>Creatur 15</h4>
                         </div>
@@ -151,36 +149,53 @@
     <div class="container">
         <div class="row">
             <div class="col-md-offset-3 col-md-6 col-md-offset-3 col-sm-offset-2 col-sm-8 col-sm-offset-2 title">
-                <h2>Portfolio</h2>
+                <h2>Mi galería</h2>
                 <hr>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                    laoree.</p>
+                <p>Con la finalidad de desenvolverme profesionalmente en el desarrollo de apps y mostrar mi potencial,
+                    así como tener oportunidades para crecer y obtener nuevos conocimientos, he reunido algunos aspectos
+                    importantes en esta página.</p>
             </div>
             <div class="col-md-12 col-sm-12"></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img1.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img1.jpg'%}" alt="portfolio img"></a></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img2.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img2.jpg'%}" alt="portfolio img"></a></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img3.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img3.jpg'%}" alt="portfolio img"></a></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img4.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img4.jpg'%}" alt="portfolio img"></a></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img5.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img5.jpg'%}" alt="portfolio img"></a></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img6.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img6.jpg'%}" alt="portfolio img"></a></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img7.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img7.jpg'%}" alt="portfolio img"></a></div>
-            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s"><a
-                    href="{% static 'CV/images/portfolio-img8.jpg'%}" data-lightbox-gallery="portfolio-gallery"><img
-                    src="{% static 'CV/images/portfolio-img8.jpg'%}" alt="portfolio img"></a></div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/portafolio1.png'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/portafolio1.png'%}" alt="portfolio img">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/portafolio2.png'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/portafolio2.png'%}" alt="portfolio img">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/portafolio3.png'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/portafolio3.png'%}" alt="portfolio img">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/app_olmecas.png'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/app_olmecas.png'%}" alt="portfolio img">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/app_creatur.png'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/app_creatur.png'%}" alt="portfolio img">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/portfolio-img6.jpg'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/portfolio-img6.jpg'%}" alt="portfolio img">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/portfolio-img7.jpg'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/portfolio-img7.jpg'%}" alt="portfolio img">
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-3 wow fadeIn" data-wow-delay="0.6s">
+                <a href="{% static 'CV/images/portfolio-img8.jpg'%}" data-lightbox-gallery="portfolio-gallery">
+                    <img src="{% static 'CV/images/portfolio-img8.jpg'%}" alt="portfolio img">
+                </a>
+            </div>
         </div>
     </div>
 </div>
